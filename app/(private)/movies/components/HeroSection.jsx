@@ -4,7 +4,7 @@ import VideoSection from "./VideoSection";
 const HeroSection = () => {
   return (
     <div className="relative h-[50vw]">
-      <VideoSection videoKey={videoKey}  />
+      <VideoSection videoKey={videoKey} />
     </div>
   );
 };
